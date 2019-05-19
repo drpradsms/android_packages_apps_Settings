@@ -243,4 +243,6 @@
     <string name="system_theme_dark">Dark</string>
     <string name="blackaf_theme_title">Use Black theme</string>
     <string name="blackaf_theme_summary">Use black theme in place of dark</string>
+    <string name="accent_color">Accent color</string>
+
 </resources>

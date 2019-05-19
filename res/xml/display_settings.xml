@@ -159,6 +159,12 @@
             android:summary="@string/blackaf_theme_summary"
             android:defaultValue="false" />
 
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+            android:key="accent_color"
+            android:title="@string/accent_color"
+            android:defaultValue="0xffffff"
+            android:persistent="false" />
+
     </PreferenceCategory>
 
     <ListPreference
