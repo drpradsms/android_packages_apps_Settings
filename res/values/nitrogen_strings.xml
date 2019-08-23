@@ -244,5 +244,5 @@
     <string name="blackaf_theme_title">Use Black theme</string>
     <string name="blackaf_theme_summary">Use black theme in place of dark</string>
     <string name="accent_color">Accent color</string>
-
+    <string name="theme_category_title">Theme options</string>
 </resources>
